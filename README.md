@@ -1,6 +1,6 @@
 # GRAPPA Student Seminar 2018
 
-This repository provides an overview and useful material for the GRAPPA Student Seminar 2018.
+This repository provides an overview and useful material for the GRAPPA Student Seminar 2018. Slides from the lectures can be found in the `slides/` folder.
 
 There are 4 groups, each covering a different topic in the field of Dark Matter:
 
