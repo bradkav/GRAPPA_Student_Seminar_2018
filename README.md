@@ -11,7 +11,7 @@ There are 4 groups, each covering a different topic in the field of Dark Matter:
 
 Each group is expected to write a review section of the Dark Matter wiki: [http://www.darkmatterwiki.net/](http://www.darkmatterwiki.net/).
 
-In association with this, each group is also expected to write a number of scripts performing useful calculations. More details can be found in the `scripts/` folder. Each group has its own GitHub repository for storing and collaborating on the scripts:
+In association with this, each group is also expected to write a number of scripts performing useful calculations. More details can be found in the `scripts_info/` folder. Note, however, that the scripts themselves should be placed in the relevant GitHub repositories for your group:
 
 * Group 1 (Cosmology): [GSS2018_Cosmology](https://github.com/bradkav/GSS2018_Cosmology)
 * Group 2 (Candidates): [GSS2018_Candidates](https://github.com/bradkav/GSS2018_Candidates)
